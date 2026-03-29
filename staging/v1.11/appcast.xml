@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Workrave</title>
+        <description>Workrave</description>
+        <language>en</language>
+        <link>https://workrave.org/</link>
+
+        <item>
+            <title>Workrave 1.11.0-rc.4</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.4</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Sun, 29 Mar 2026 12:34:57 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260329-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="xQAo15AaiFXfhhbNQuub5j7B/tcU8tx7rdieRd+Z1SFf0s4iemXQiAgg7lVHMab6GjMWqc9+R/IUJuDuQ0VKAw==" length="67794276" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.4</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.4</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Sat, 28 Mar 2026 10:58:06 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260328-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="YTb6XbAviNL668DExya08WtDr2gUnpWMmcubF/dIpe+02TcVKzYIV3sr0/GIM6wp16TOO8qsPsPUPjqobEfpAA==" length="67793308" type="application/octet-stream" />
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260328-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="zm/sdKP7kTQccmKVFn1ny4lF+5sTWelSPAeR8d3Nmx4rsUUfLbiQoPO2tl2ZQ2l7yr46ViAxeBmIT/tAstCUDA==" length="67794316" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.2</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.2 has been released.
+
+
+- Improvements:
+  - Allow Workrave to ignore idle inhibitors if possible (#596, J. J. Ramsey)
+  - Add examples of usage with swaybar (#597, J. J. Ramsey)
+  - Support GNOME Shell 48
+  - Update DBus example (#611, Emmanuel Ferdman)
+  - Support for user defined colors (#619)
+  - Port workrave Python scripts for waybar, etc., to dasbus (#627, J. J. Ramsey)
+  - Phil Dibbs contributed new sounds (bells_ensemble, shangri_la, synth_harp, tinkle_bell, tuned_udu, woodwind_ensemble)
+  - Support GNOME Shell 49 (#636, Alessandro Astone)
+  - Keyboard/mouse locking now works on ARM64 Windows
+  - Handle screen lock shortcut during breaks under Xorg
+  - Add high DPI support on Windows (#650, Charlie Lin)
+  - Use Gnome Shell extension to display prelude windows (#621)
+  - It is no longer required to accept the GPL license on installation on Windows (#648)
+- Bug fixes:
+  - Fix crash when monitor is powered off (#606)
+  - Fix an empty AppIndicator menu (#556, #614, wojnilowicz)
+  - Fix issue where the tray icon did not appear on waybar, swaybar, or wf-shell trays (#555, #613, wojnilowicz)
+  - Fix issue where the status window shows when Sway reloads despite being disabled (#612, #615, wojnilowicz)
+  - Update AppIndicator menu when menu content changes (#556, #652,ValdikSS)
+- Updated Translations:
+  - Update Chinese translation (#645, Sisyphe42)
+  - Updated Indonesian translation (#653, Andika Triwidada)
+  - Fix French translation (#656)]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.2</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Mon, 24 Nov 2025 08:02:20 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251124-v1_11_0_rc_2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="aN8dq6Wr+4nrw9DDZxoNE9yAmNNt8pkFcSHBMDpiTffL1VWi3tZH70jTyLqsnN00GtIePT0EG0+l+NHhZK/PDA==" length="65021560" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.2</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.2 has been released.
+
+
+- Improvements:
+  - Allow Workrave to ignore idle inhibitors if possible (#596, J. J. Ramsey)
+  - Add examples of usage with swaybar (#597, J. J. Ramsey)
+  - Support GNOME Shell 48
+  - Update DBus example (#611, Emmanuel Ferdman)
+  - Support for user defined colors (#619)
+  - Port workrave Python scripts for waybar, etc., to dasbus (#627, J. J. Ramsey)
+  - Phil Dibbs contributed new sounds (bells_ensemble, shangri_la, synth_harp, tinkle_bell, tuned_udu, woodwind_ensemble)
+  - Support GNOME Shell 49 (#636, Alessandro Astone)
+  - Keyboard/mouse locking now works on ARM64 Windows
+  - Handle screen lock shortcut during breaks under Xorg
+  - Add high DPI support on Windows (#650, Charlie Lin)
+  - Use Gnome Shell extension to display prelude windows (#621)
+  - It is no longer required to accept the GPL license on installation on Windows (#648)
+- Bug fixes:
+  - Fix crash when monitor is powered off (#606)
+  - Fix an empty AppIndicator menu (#556, #614, wojnilowicz)
+  - Fix issue where the tray icon did not appear on waybar, swaybar, or wf-shell trays (#555, #613, wojnilowicz)
+  - Fix issue where the status window shows when Sway reloads despite being disabled (#612, #615, wojnilowicz)
+  - Update AppIndicator menu when menu content changes (#556, #652,ValdikSS)
+- Updated Translations:
+  - Update Chinese translation (#645, Sisyphe42)
+  - Updated Indonesian translation (#653, Andika Triwidada)
+  - Fix French translation (#656)]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.2</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Sun, 23 Nov 2025 09:51:24 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251123-v1_11_0_rc_2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="lDhRYFLWIJpMUt8B1f+6YnXHsacxTwwpflgL1/1TVcqXSTjh+fvgGFptMJbrS2XJtP1szYL7dXdFNwkrZ5K4Aw==" length="65016912" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.2</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.2 has been released.
+
+
+- Improvements:
+  - Allow Workrave to ignore idle inhibitors if possible (#596, J. J. Ramsey)
+  - Add examples of usage with swaybar (#597, J. J. Ramsey)
+  - Support GNOME Shell 48
+  - Update DBus example (#611, Emmanuel Ferdman)
+  - Support for user defined colors (#619)
+  - Port workrave Python scripts for waybar, etc., to dasbus (#627, J. J. Ramsey)
+  - Phil Dibbs contributed new sounds (bells_ensemble, shangri_la, synth_harp, tinkle_bell, tuned_udu, woodwind_ensemble)
+  - Support GNOME Shell 49 (#636, Alessandro Astone)
+  - Keyboard/mouse locking now works on ARM64 Windows
+  - Handle screen lock shortcut during breaks under Xorg
+  - Add high DPI support on Windows (#650, Charlie Lin)
+  - Use Gnome Shell extension to display prelude windows (#621)
+  - It is no longer required to accept the GPL license on installation on Windows (#648)
+- Bug fixes:
+  - Fix crash when monitor is powered off (#606)
+  - Fix an empty AppIndicator menu (#556, #614, wojnilowicz)
+  - Fix issue where the tray icon did not appear on waybar, swaybar, or wf-shell trays (#555, #613, wojnilowicz)
+  - Fix issue where the status window shows when Sway reloads despite being disabled (#612, #615, wojnilowicz)
+  - Update AppIndicator menu when menu content changes (#556, #652,ValdikSS)
+- Updated Translations:
+  - Update Chinese translation (#645, Sisyphe42)
+  - Updated Indonesian translation (#653, Andika Triwidada)
+  - Fix French translation (#656)]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.2</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Sun, 23 Nov 2025 09:16:10 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251123-v1_11_0_rc.2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="KHBhk1QSP86lHwsZtClwTrAmxKtDO4bwovXVhf4vl4gDezRd8wrekA9qWJ3rJO9d1jux/xT7nprqvzTwE+rECQ==" length="64985896" type="application/octet-stream" />
+        </item>
+
+
+    </channel>
+</rss>
