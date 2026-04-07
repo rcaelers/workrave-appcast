@@ -23,8 +23,8 @@ Workrave 1.11.0-rc.4 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.4</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Mon, 06 Apr 2026 12:48:26 +0200</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260406-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="RCO2r86+/WQKqxDromxkxr1j1+jGc/tpcv9atEFBXh63oEwX/GtZ04ukzAifC5xEeHkUxmvvPeepUw+dWFbGBQ==" length="65357792" type="application/octet-stream" />
+            <pubDate>Tue, 07 Apr 2026 07:42:02 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260407-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="BUC/XZe3iWovuxObsYY7xsxklVNsLBya8Xta5RpNl+UcOWPz7Ad+rIe0SVPXemZsC9BbAFVlJaVYylJs4UNuCg==" length="65358222" type="application/octet-stream" />
         </item>
 
 
