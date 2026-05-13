@@ -13,9 +13,13 @@
 Workrave 1.11.0-rc.4 has been released.
 
 
+- Improvements:
+  - The D-Bus utility (gdbus.exe) is now an optional install on Windows.
 - Translations:
   - Added Georgian translation (#669, NorwayFun)
-  - Update Dutch translation
+  - Updated Dutch translation
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
 - Bug fixes:
     - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
     - Fix Gnome Shell extension (#661, Nick kousu)
@@ -23,8 +27,8 @@ Workrave 1.11.0-rc.4 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.4</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Wed, 22 Apr 2026 08:50:25 +0200</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260422-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="ychEui5Y1LXzrkOzKgfNPJx/YLKCd9+5NCs7+QR0PuRrb9eljUzdJkn/pOvZIuYTSPKkoY3oLLtnzFb5zHSSCw==" length="65444368" type="application/octet-stream" />
+            <pubDate>Thu, 14 May 2026 12:00:04 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260514-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="VkZanAWTGyJ/lHicUTAwxY22nYLSmgKlU4ZM00d6jcUdq3YYhhakONe8NZEgXl9mu6F5B4jrapr3RvIcZrbgCg==" length="65679439" type="application/octet-stream" />
         </item>
 
 
