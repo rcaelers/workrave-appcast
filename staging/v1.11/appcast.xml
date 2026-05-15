@@ -14,21 +14,19 @@ Workrave 1.11.0-rc.4 has been released.
 
 
 - Improvements:
-  - The D-Bus utility (gdbus.exe) is now an optional install on Windows.
-- Translations:
-  - Added Georgian translation (#669, NorwayFun)
-  - Updated Dutch translation
-- Improvements:
     - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
 - Bug fixes:
     - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
     - Fix Gnome Shell extension (#661, Nick kousu)
-    - Fix application icon on Linux]]></description>
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation]]></description>
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.4</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Fri, 15 May 2026 12:17:19 +0200</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260515-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="oq46oPVHrZreUgLkSxjoyk3hl3hVW47IItwDMMLibp3kfop0/sTFRhLl9nwqUC/8DevQlHbJSofeUgpN9c61Cg==" length="73419513" type="application/octet-stream" />
+            <pubDate>Fri, 15 May 2026 01:03:16 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_4/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="3qUQj1TT6btRE6oKtY1a+OQZYnCoaimJfNCrQahs1wqwkOdJM5PG+1Y55NiJvClOpPzhNl/ojeyht4WYjWbGAg==" length="73419154" type="application/octet-stream" />
         </item>
 
 
@@ -65,8 +63,7 @@ Workrave 1.11.0-rc.2 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.2</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Mon, 24 Nov 2025 08:02:20 +0100</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251124-v1_11_0_rc_2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="aN8dq6Wr+4nrw9DDZxoNE9yAmNNt8pkFcSHBMDpiTffL1VWi3tZH70jTyLqsnN00GtIePT0EG0+l+NHhZK/PDA==" length="65021560" type="application/octet-stream" />
+            <pubDate>Mon, 24 Nov 2025 08:02:20 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_2/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="aN8dq6Wr+4nrw9DDZxoNE9yAmNNt8pkFcSHBMDpiTffL1VWi3tZH70jTyLqsnN00GtIePT0EG0+l+NHhZK/PDA==" length="65021560" type="application/octet-stream" />
         </item>
 
 
@@ -103,8 +100,7 @@ Workrave 1.11.0-rc.2 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.2</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Sun, 23 Nov 2025 09:16:10 +0100</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251123-v1_11_0_rc.2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="KHBhk1QSP86lHwsZtClwTrAmxKtDO4bwovXVhf4vl4gDezRd8wrekA9qWJ3rJO9d1jux/xT7nprqvzTwE+rECQ==" length="64985896" type="application/octet-stream" />
+            <pubDate>Sun, 23 Nov 2025 09:16:10 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc.2/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="KHBhk1QSP86lHwsZtClwTrAmxKtDO4bwovXVhf4vl4gDezRd8wrekA9qWJ3rJO9d1jux/xT7nprqvzTwE+rECQ==" length="64985896" type="application/octet-stream" />
         </item>
 
 
