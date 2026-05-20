@@ -1,6 +1,1563 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Workrave Appcast v1.11</title>
-  </channel>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Workrave</title>
+        <description>Workrave</description>
+        <language>en</language>
+        <link>https://workrave.org/</link>
+
+        <item>
+            <title>Workrave 1.11.0-rc.4</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.4</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Wed, 20 May 2026 07:44:53 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_4/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="gPkabQ5A2tXmra4FtbNIlUn/g93GEKwL7R+iUCZaYD8AqPlFTCI3KrhphDrA6YNXcB7gBfBf11wnwUcDT+cxCg==" length="68108032" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-120</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit a2748e09a3d1920166c67bb8593b6a728d33cf59
+Author: Rob Caelers
+Date: 2026-05-19T20:24:32+02:00
+
+1.11.0.rc.4
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-120</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Tue, 19 May 2026 08:25:31 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260519-v1_11_0_rc_3-120-ga2748e09a3/workrave-windows-v1_11_0_rc_3-120-ga2748e09a3-20260519.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="APkHcpQhTuyDVeScnroSmQvMytx5BEgE0P7NK00jY8f7niNSX/Z822ITgk07dYw3ODbPeGqWKeQCu0dm9DnnCQ==" length="73310427" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-119</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 0f1d9d491c56ab0a60203fb337a529c825dfb756
+Author: Rob Caelers
+Date: 2026-05-19T20:21:39+02:00
+
+Ask for installation mode on first install
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-119</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Tue, 19 May 2026 08:22:00 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260519-v1_11_0_rc_3-119-g0f1d9d491c/workrave-windows-v1_11_0_rc_3-119-g0f1d9d491c-20260519.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="MhjitYIwYXx2punO/uF8FtaZhyErR6fnpsVrf1oPufVRJvc5e10cidlG8E7pdBDK99CBkBUoTymzLuy3ip29Ag==" length="73310893" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-118</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 30fe6e476298910026371fdd8845dfeeedaf278d
+Author: Rob Caelers
+Date: 2026-05-18T22:43:43+02:00
+
+fix: change installation privileges to admin in setup.iss
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-118</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Mon, 18 May 2026 10:57:00 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260518-v1_11_0_rc_3-118-g30fe6e4762/workrave-windows-v1_11_0_rc_3-118-g30fe6e4762-20260518.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="X8/VqKde6zaIAnyC4cbkHHrED+oCAiH5f2Z2uMXWxp8mGlVbPoCnvMsHrlsg20oNCptz68dYTdixPEz+1d83Ag==" length="73310837" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-117</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 3091e4adefe0571725fe6c094a7ca408c045a374
+Author: Rob Caelers
+Date: 2026-05-18T22:09:35+02:00
+
+fix: restore quit command for installer
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-117</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Mon, 18 May 2026 10:09:54 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260518-v1_11_0_rc_3-117-g3091e4adef/workrave-windows-v1_11_0_rc_3-117-g3091e4adef-20260518.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="yIOojGLMfEXfxKScCuogF9tdux1MeC/IhAsml5wy/qJQFqT6/keIkqYLUCZxcps7FJ8BGPLsXuSuMYN/tsaqBA==" length="73310962" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-116</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 97e392f61cfd062094ff23ec4c1e8a1d76059cf9
+Author: Rob Caelers
+Date: 2026-05-18T18:03:51+02:00
+
+fix: update installation directory and privileges in setup.iss
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-116</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Mon, 18 May 2026 06:04:12 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260518-v1_11_0_rc_3-116-g97e392f61c/workrave-windows-v1_11_0_rc_3-116-g97e392f61c-20260518.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="FjTyjsQ0tyvgeHkpqYdAQ42m+CukV5ZK6WQ9XESICxPlA2gxHnAbLCvMFY2dWdV4eiAz1DQHVd9gNAyt+0zDAw==" length="73309479" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-115</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 1f7424344224a9a20bce0859789153493f383043
+Author: Rob Caelers
+Date: 2026-05-15T20:00:02+02:00
+
+fix: remove WindowsAppletWindow.cc from POTFILES.in
+
+commit f907e1477506e93ce48a09d8c399db7ae78fd689
+Author: Rob Caelers
+Date: 2026-05-15T19:49:34+02:00
+
+feat: add git commit hash to crash report
+
+commit aa9b1cab3aa686c2ffd67005c96ae126a0762d60
+Author: Rob Caelers
+Date: 2026-05-15T16:56:26+02:00
+
+fix: close WorkraveCrashHandler.exe during installation
+
+commit a19134003f276dc9af2b2e1b9dbe9e21212fc038
+Author: Rob Caelers
+Date: 2026-05-15T16:56:02+02:00
+
+refactor: remove Windows Deskband applet
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-115</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Fri, 15 May 2026 08:00:24 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260515-v1_11_0_rc_3-115-g1f74243442/workrave-windows-v1_11_0_rc_3-115-g1f74243442-20260515.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="Rv9E+/E7YxV1azIbTrI9qgPnX7WhLTI0bz1FU5UC+z+5r9vf+N7iw/NpQrNhNd+kZK4OIhuYaax+J5pANPoaDA==" length="73310322" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-111</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 8fd91f415260cd8ef3cc1f5a91bdc56c96dbf7cb
+Author: Rob Caelers
+Date: 2026-05-15T15:58:59+02:00
+
+Merge pull request #684 from rcaelers/copilot/apply-autofixes-206
+
+Fix unsigned buffer remainder check in DirectSound fill path
+
+commit 75dc303e07f60414f745288111c9a1d6540d4291
+Author: copilot-swe-agent[bot]
+Date: 2026-05-15T15:47:47+02:00
+
+Fix unsigned comparison in DirectSound buffer fill check
+
+Agent-Logs-Url: https://github.com/rcaelers/workrave/sessions/736accce-6b1b-4ede-89dc-71a17881fafe
+
+Co-authored-by: rcaelers <80881+rcaelers@users.noreply.github.com>
+
+commit e108ab21fc710298e911fa023cb9a9a36b36fd9c
+Author: copilot-swe-agent[bot]
+Date: 2026-05-15T15:46:06+02:00
+
+Initial plan
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-111</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Fri, 15 May 2026 03:59:17 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260515-v1_11_0_rc_3-111-g8fd91f4152/workrave-windows-v1_11_0_rc_3-111-g8fd91f4152-20260515.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="9sZH2EPushmXEDYZO+FUQbrDWDazl+Aqt0WYcxKBImBhMHk5iR1hlRjoeV7rF22Ke6d5cJWWdLImDwJWca2NCQ==" length="73682574" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-108</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 21f323c4fe9624796cd34c8d1e6d190fd77eef59
+Author: Rob Caelers
+Date: 2026-05-15T15:33:19+02:00
+
+fix(state): use temporary file for state saving to prevent data loss
+
+commit 695c9a90cf09259754d283308c13818272942e27
+Author: Rob Caelers
+Date: 2026-05-15T15:21:30+02:00
+
+feat(logging): enhance crash logging
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-108</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Fri, 15 May 2026 03:52:42 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260515-v1_11_0_rc_3-108-g21f323c4fe/workrave-windows-v1_11_0_rc_3-108-g21f323c4fe-20260515.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="knror3MCYQRcEUC1f7JdTEQ429ue2fgrYkygb2jy5JIrDsXrA0KKfZh8y+r2M7DGXarStphMw8HqGuVv2srLAw==" length="73682184" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-106</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+    - On Windows, a Windows 11 UI theme is now used.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+
+commit 1e07e66b5b0525a30785a7408209bfa2cb26b4d5
+Author: Rob Caelers
+Date: 2026-05-15T12:58:06+02:00
+
+fix(release): update environment variable handling for staging and production
+
+commit d09069c503ad34b1bc63f10f797e150d2f4095a6
+Author: Rob Caelers
+Date: 2026-05-15T11:45:03+02:00
+
+fix(release): remove product name from symbol upload
+
+commit de5c5bbf067d25add314486b1418a6eed07e6d88
+Author: Rob Caelers
+Date: 2026-05-15T11:44:43+02:00
+
+Prepare rc4
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-106</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Fri, 15 May 2026 12:58:25 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260515-v1_11_0_rc_3-106-g1e07e66b5b/workrave-windows-v1_11_0_rc_3-106-g1e07e66b5b-20260515.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="3XpdP8aKphhgAwgCoN7qfKKiCaTvRXpX3szzEIjtA9J5cC6la/SZSZdXdUcX+rTfWYLzysHLpRTLmXilA7A4Dg==" length="73414561" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-103</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+  - The D-Bus utility (gdbus.exe) is now an optional install on Windows.
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 97645a1924139bed4379c61a5d5bc9054a7896a3
+Author: Rob Caelers
+Date: 2026-05-15T00:13:39+02:00
+
+feat(crashpad): enable stack traces in crashpad
+
+commit 60ca3c2e8bf905837dc6efd67e4f0ee572deeaeb
+Author: Rob Caelers
+Date: 2026-05-15T00:12:33+02:00
+
+feat(release): add symbol upload functionality
+
+commit 106f5bd60d1b9ce1b711591aeae485a14ed5784c
+Author: Rob Caelers
+Date: 2026-05-15T00:10:32+02:00
+
+fix(crashpad): update minidump upload URLs
+
+commit cad9752403f30c993b6b13ceab25cbb9ab16486c
+Author: Rob Caelers
+Date: 2026-05-15T00:10:00+02:00
+
+feat(theme): update Windows theme to Windows 11
+
+commit 66f2f93f1ec908ac0009df7a469a61f6c5d6f767
+Author: Rob Caelers
+Date: 2026-05-15T00:08:03+02:00
+
+feat(crashpad): enhance crash report dialog
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-103</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Fri, 15 May 2026 12:13:59 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260514-v1_11_0_rc_3-103-g97645a1924/workrave-windows-v1_11_0_rc_3-103-g97645a1924-20260514.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="wZSclWSqXy8PgqaOruxw9wV24f2r4g+keKGojVmcTGI/odmYQLQazidUw2wvngJ2d1u1TTk/s+U6HSzJNre+DA==" length="73416626" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-98</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+  - The D-Bus utility (gdbus.exe) is now an optional install on Windows.
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 84fad8e99a41564bb54d2dd2ca726a2a2a933759
+Author: Rob Caelers
+Date: 2026-05-13T23:58:00+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 7f5f08e418c666f4c58f573c6dfd1437040b3e14
+Author: Rob Caelers
+Date: 2026-05-13T23:46:45+02:00
+
+fix(readme): improve formatting and clarity in installation instructions
+
+commit a01bbafdcb559e1da0a1c59608f958abdb1d4728
+Author: Rob Caelers
+Date: 2026-05-13T23:46:20+02:00
+
+feat(crashpad): update dump_syms to v2.3.7
+
+commit 7324ba78b209a33422fa1b870d9eaee8d3acd0f8
+Author: Rob Caelers
+Date: 2026-05-13T23:45:38+02:00
+
+feat(cmake): remove TODO for breakpad symbol upload
+
+commit 8637363baf53ce2a5434fd13c001e56bb2fce680
+Author: Rob Caelers
+Date: 2026-05-13T23:45:11+02:00
+
+feat(crashpad): update GIT_TAG for crashpad dependency
+
+commit 0bb78dd4d71056e96ba1f03331eda3847d5b2cba
+Author: Rob Caelers
+Date: 2026-05-13T23:42:34+02:00
+
+feat(crash): add staging option for crashpad server
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-98</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Wed, 13 May 2026 11:58:16 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260513-v1_11_0_rc_3-98-g84fad8e99a/workrave-windows-v1_11_0_rc_3-98-g84fad8e99a-20260513.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="9DTWhCnz5Wst3JPS7iRd0JfKJ2R9lJN+SROaYPGlBF/4XwpXrwAusaPDcYrqkVuPD7cBjKcq2Dcs2lgR31H8Cw==" length="73321241" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-92</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Improvements:
+  - The D-Bus utility (gdbus.exe) is now an optional install on Windows.
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit c8e8947234f56c3f4ad2650f788f51121e8e6204
+Author: Rob Caelers
+Date: 2026-05-13T23:41:00+02:00
+
+feat(changes): add optional D-Bus utility installation for Windows
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-92</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Wed, 13 May 2026 11:41:32 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260513-v1_11_0_rc_3-92-gc8e8947234/workrave-windows-v1_11_0_rc_3-92-gc8e8947234-20260513.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="GiBzaXEnRrHBk6dHzgVLO/hrsVsgDdg96Fs/BDHosmLJgCOiOgy9KLCM3wEjFzkbkxW0nbz86H96BpCKHeskBg==" length="73316589" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-91</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Updated Dutch translation
+- Improvements:
+    - The D-Bus utility (gdbus) is no longer installed by default by the installer.
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit e69328e42d29591c3091b5bca929df4b5ac99b60
+Author: Rob Caelers
+Date: 2026-05-09T22:44:47+02:00
+
+feat(news): update news for rc.4
+
+commit d08500cd6a5881a11f032bb2ac1e371e959b3107
+Author: Rob Caelers
+Date: 2026-05-09T22:34:25+02:00
+
+feat(installer): add unchecked flag for D-Bus utility installation option
+
+commit 8d81ec576985e9d92200b7ce2a3dcac699548834
+Author: Rob Caelers
+Date: 2026-05-09T22:28:09+02:00
+
+feat(sbom): enhance SBOM generation
+
+commit b264ae600fc8c9e4679dd3bcb03bc2dd94b9710d
+Author: Rob Caelers
+Date: 2026-05-09T22:27:10+02:00
+
+feat(config): add HAVE_UPDATER_STAGING definition
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-91</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Sat, 09 May 2026 10:45:05 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260509-v1_11_0_rc_3-91-ge69328e42d/workrave-windows-v1_11_0_rc_3-91-ge69328e42d-20260509.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="JTXhTxOzWA/vtqNWhAS4cvK4bP/ExxsojLZg3L9HXhbjpSML402o2bJ+nPyKqyqZDcG2VkO5ZlPSJewUqtHYBQ==" length="67158789" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-87</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 2a2618f80da013e48b7d54a8837eee5a38b73acc
+Author: Rob Caelers
+Date: 2026-05-09T15:13:47+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 31e55e717a522d8544e023c9442fef69a19a33fd
+Author: Rob Caelers
+Date: 2026-05-09T15:13:32+02:00
+
+fix(readme): update URL to use HTTPS for improved security
+
+commit 00f4932bb4a8c5e3642d31357aed2e18d951265e
+Author: Rob Caelers
+Date: 2026-05-09T15:12:52+02:00
+
+feat(installer): add D-Bus utility installation option to setup
+
+commit d74a3740f7da0baaed1235e7ceec422b378a87ef
+Author: Rob Caelers
+Date: 2026-05-09T15:11:52+02:00
+
+fix(cmake): remove extra space in BOOST_COMPONENTS setting
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-87</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Sat, 09 May 2026 03:14:12 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260509-v1_11_0_rc_3-87-g2a2618f80d/workrave-windows-v1_11_0_rc_3-87-g2a2618f80d-20260509.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="6wOxmF4aKlIvPmcRXZfHYy7z7tjGcYRchYujR6C7h/uLLVX782Bcp3pgpbenEGXconbWe9HWe57mU0ctd6pVBQ==" length="67157308" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-81</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 4711d27d3d03c3f30adbd42318454389bad163d2
+Author: Rob Caelers
+Date: 2026-05-04T20:11:56+02:00
+
+Merge pull request #683 from rcaelers/dependabot/npm_and_yarn/tools/citool/multi-d2fd79378c
+
+Bump fast-xml-parser and @aws-sdk/xml-builder in /tools/citool
+
+commit 2618dff8856ff72e1523458d5a6fcb8ecd06c83a
+Author: dependabot[bot]
+Date: 2026-05-04T11:35:56+02:00
+
+Bump fast-xml-parser and @aws-sdk/xml-builder in /tools/citool
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) and [@aws-sdk/xml-builder](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/packages-internal/xml-builder). These dependencies needed to be updated together.
+
+Updates `fast-xml-parser` from 5.5.8 to 5.7.2
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.8...v5.7.2)
+
+Updates `@aws-sdk/xml-builder` from 3.972.16 to 3.972.22
+- [Release notes](https://github.com/aws/aws-sdk-js-v3/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js-v3/blob/main/packages-internal/xml-builder/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js-v3/commits/HEAD/packages-internal/xml-builder)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.7.2
+  dependency-type: indirect
+- dependency-name: "@aws-sdk/xml-builder"
+  dependency-version: 3.972.22
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5af00fee06592c4fafa0a9b4bd05a647b04ea3b9
+Author: Rob Caelers
+Date: 2026-04-23T12:15:27+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-81</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Mon, 04 May 2026 08:12:20 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260504-v1_11_0_rc_3-81-g4711d27d3d/workrave-windows-v1_11_0_rc_3-81-g4711d27d3d-20260504.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="+7CCwI0rZD5QE2B+jjes62S/DR11C/NGGVbBjFUCU1VQGEoCMOeywdA7YIAhrfE5PmrkaGm1Q7o4dhGlFDq5Dw==" length="67162197" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-79</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 0059ba745f1648d54848e75075cccbe954a8d8f6
+Author: Rob Caelers
+Date: 2026-04-22T21:36:27+02:00
+
+feat(updater): add Authenticode signature validation for installer
+
+commit 324932c51a33e34cbc86ededf06a7e223f3aac90
+Author: Rob Caelers
+Date: 2026-04-22T21:36:13+02:00
+
+feat(updater): add staging option for appcast and update validation logic
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-79</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Wed, 22 Apr 2026 09:51:57 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260422-v1_11_0_rc_3-79-g0059ba745f/workrave-windows-v1_11_0_rc_3-79-g0059ba745f-20260422.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="iy6PWFW02L0ugHLVNplEdjsMg9GRR+cywmZNU7PsnSC39xTADnlnc7uFVGxej+vjmszCeXBYV3jbwa7yMYx8DA==" length="66889473" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-77</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 7f07e8537d5c51685383a56bba68951a868dba26
+Author: Rob Caelers
+Date: 2026-04-22T20:48:00+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 0984c36681a023c02de3139adf386ec0506663a1
+Author: Rob Caelers
+Date: 2026-04-22T20:47:55+02:00
+
+fix(builder): update deduplication logic to use unique keys for builds
+
+Co-authored-by: Copilot <copilot@github.com>
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-77</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Wed, 22 Apr 2026 08:48:16 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260422-v1_11_0_rc_3-77-g7f07e8537d/workrave-windows-v1_11_0_rc_3-77-g7f07e8537d-20260422.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="nxSW9gDDKNHP3Nhhlkc6LvUw/mkqt8Aw+0n+LyQjtJKCo7ppIs5mzA1K7+R7qoifVZBpSKA4lfK8wR8UmigjAg==" length="66887892" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-75</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit 2d5c0e6bba7e21e2e6df233cfbcb1d255da72837
+Author: Rob Caelers
+Date: 2026-04-21T21:55:28+02:00
+
+Merge pull request #678 from rcaelers/dependabot/npm_and_yarn/tools/citool/lodash-4.18.1
+
+Bump lodash from 4.17.23 to 4.18.1 in /tools/citool
+
+commit c0104fc7c18df55c44da3c98fd0726bdde7e3bbd
+Author: Rob Caelers
+Date: 2026-04-21T20:30:49+02:00
+
+chore(devcontainer): remove Dockerfile and devcontainer.json
+
+commit fd7889e0637216b21bcfd187bf3f3ed59a038f0c
+Author: Rob Caelers
+Date: 2026-04-21T19:44:28+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit ee447004752939bcc1012f9fd3baac6063a97855
+Author: Rob Caelers
+Date: 2026-04-21T19:43:25+02:00
+
+fix(statistics): use temporary file for saving daily stats
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-75</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Tue, 21 Apr 2026 09:55:42 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260421-v1_11_0_rc_3-75-g2d5c0e6bba/workrave-windows-v1_11_0_rc_3-75-g2d5c0e6bba-20260421.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="8O76PN1vrKvjJ8nYSW999xw7dQ2gfYxlZAuafFY5oWWaK701ounzPeMTnZsiF9Wcy1wTYQZJlx2DMs7t0lQMAg==" length="66887941" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3-71</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.4 has been released.
+
+
+- Translations:
+  - Added Georgian translation (#669, NorwayFun)
+  - Update Dutch translation
+- Bug fixes:
+    - Rest Break window no longer appears in top left corner in "No Lock" mode (#663, 664, ValdikSS)
+    - Fix Gnome Shell extension (#661, Nick kousu)
+    - Fix application icon on Linux
+
+commit f9eefb31cd63de8abe06f300ae6dc65f966f5633
+Author: Rob Caelers
+Date: 2026-04-08T21:55:01+02:00
+
+Speed up SBOM generation
+
+commit 09454c2659f1e4f608c83ed9acf345d6e2d7d0c4
+Author: Rob Caelers
+Date: 2026-04-07T21:21:49+02:00
+
+update crashpad
+
+commit abf7a8f9c364ef95ba276ffad6911870c5f3104f
+Author: Rob Caelers
+Date: 2026-04-07T21:21:12+02:00
+
+generate spdx sbom
+
+commit 332e5e5134c68689fdbbb984be2f3adc50526b08
+Author: Rob Caelers
+Date: 2026-04-04T23:44:03+02:00
+
+force tls1.2
+
+commit c056b69fd0e971b653d980037f508ad3b42837da
+Author: Rob Caelers
+Date: 2026-04-04T22:53:45+02:00
+
+Fix authenticode signing
+
+commit f3587111eaf9f8107a12955f564fbfde1d7b03f8
+Author: Rob Caelers
+Date: 2026-04-04T22:10:47+02:00
+
+Update signing server urls
+
+commit 698e713344f5b206456fc9b888adce8dd7900d43
+Author: Rob Caelers
+Date: 2026-04-04T20:44:07+02:00
+
+Use https instead of http for workrave.org
+
+commit 76803111a9b5ee1309a63afdfd6bc47edda2ed74
+Author: Rob Caelers
+Date: 2026-04-04T20:30:03+02:00
+
+Use https for signing server
+
+commit dff34428ed172e646ce77dcc09eb3dd2ceb03067
+Author: Rob Caelers
+Date: 2026-04-04T19:56:34+02:00
+
+Replace secret directort by signing service
+
+commit f5f669b231995df70e8c9bbd69125579badada8c
+Author: Rob Caelers
+Date: 2026-04-03T19:44:15+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 51044714065c8cea8add992c69d2782a4a73ce36
+Author: Rob Caelers
+Date: 2026-04-03T19:44:13+02:00
+
+fix citool
+
+commit d22dde67caa000a9ee179f3241d02b1531cdcf52
+Author: Rob Caelers
+Date: 2026-04-03T14:25:06+02:00
+
+Sign using remote service
+
+commit 03222a5db1fc51c4d663a1c8383e447de85549d8
+Author: Rob Caelers
+Date: 2026-04-03T14:24:40+02:00
+
+fix secrets path
+
+commit 9832e1f111e7eb7e1cc0e3e86b5bd4cbb08f528f
+Author: dependabot[bot]
+Date: 2026-04-03T12:35:57+02:00
+
+Bump lodash from 4.17.23 to 4.18.1 in /tools/citool
+
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.23 to 4.18.1.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.23...4.18.1)
+
+---
+updated-dependencies:
+- dependency-name: lodash
+  dependency-version: 4.18.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 382d0cfd09d07159068544b83d254506dba5a0d3
+Author: Rob Caelers
+Date: 2026-04-03T12:34:51+02:00
+
+Only use npmjs package older than 5 days
+
+commit a77e419f11c4f0505c70c6ae8523e4146fb14d60
+Author: Rob Caelers
+Date: 2026-03-31T21:08:37+02:00
+
+Update unfold
+
+commit 990cae28391016d5743ccf300b24c894df173ff9
+Author: Rob Caelers
+Date: 2026-03-30T21:14:45+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 6ba29dc1b0f6c1722ff9d4323712c4ef22aadc4b
+Author: Rob Caelers
+Date: 2026-03-30T21:14:40+02:00
+
+workflow updates
+
+commit e1b0a35676378278f6d3bdaf900fd42d1b13c552
+Author: Rob Caelers
+Date: 2026-03-30T20:53:53+02:00
+
+Merge pull request #675 from rcaelers/dependabot/npm_and_yarn/tools/citool/multi-bf05dc1ecf
+
+Bump picomatch in /tools/citool
+
+commit 8d2c9df0bd3eac3d3834a0a75c5dcdb0c3297e10
+Author: Rob Caelers
+Date: 2026-03-30T20:53:43+02:00
+
+Merge pull request #676 from rcaelers/dependabot/npm_and_yarn/tools/citool/brace-expansion-1.1.13
+
+Bump brace-expansion from 1.1.12 to 1.1.13 in /tools/citool
+
+commit cbcc9805224694ce163b29664910be645fe0f023
+Author: Rob Caelers
+Date: 2026-03-30T20:48:23+02:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit f7aaeda5b41c85d4ccba7c9c54878e138132027a
+Author: Rob Caelers
+Date: 2026-03-30T20:47:59+02:00
+
+fix CI warnings
+
+commit 2e03c7daec120cfde8c9dea01d08379311c4d0f7
+Author: Rob Caelers
+Date: 2026-03-30T20:44:57+02:00
+
+fix webview sha1 hash
+
+commit 02a7c6c1d1858933c067009cd5da58ce8fade2e5
+Author: Rob Caelers
+Date: 2026-03-30T20:32:57+02:00
+
+Remove 32bit clang dependency
+
+commit fb5c9a11e01d3238bc8a2e31da6694a57cba60f2
+Author: Rob Caelers
+Date: 2026-03-30T19:51:03+02:00
+
+Do not update appcast in CI
+
+commit d4b9e84f526eaec4c564105279c73547501cabab
+Author: Rob Caelers
+Date: 2026-03-30T19:43:55+02:00
+
+fix typo
+
+commit 5f8e49796ef41fce15aabcf18631979c94dadb18
+Author: Rob Caelers
+Date: 2026-03-30T19:42:39+02:00
+
+Support Alpha auto update
+
+Support alpha autop update
+
+commit 6da8e459cb9c92090c2c239c58fc6373eebcf603
+Author: Rob Caelers
+Date: 2026-03-30T19:40:07+02:00
+
+update webview2
+
+commit 719d3d038a4d1694cb113c640b5e4966c316468a
+Author: Rob Caelers
+Date: 2026-03-30T19:39:42+02:00
+
+update unfold
+
+commit ca82f8c6f8a0a119ed11ecbae1628f30c731401c
+Author: Rob Caelers
+Date: 2026-03-30T19:39:23+02:00
+
+update code coverage cmake module
+
+commit fc57b567d72faab54ca38ddd8e26db962866de55
+Author: Rob Caelers
+Date: 2026-03-29T20:29:30+02:00
+
+also store appcast in Git
+
+commit 51921d279f23b7c24b0635831e6552df910d5c16
+Author: Rob Caelers
+Date: 2026-03-29T20:29:12+02:00
+
+avoid duplicate entries in catalog
+
+commit 0ad9caefd3d21e096c1146ef0a2ebc91522bb86f
+Author: dependabot[bot]
+Date: 2026-03-27T14:59:15+01:00
+
+Bump brace-expansion from 1.1.12 to 1.1.13 in /tools/citool
+
+Bumps [brace-expansion](https://github.com/juliangruber/brace-expansion) from 1.1.12 to 1.1.13.
+- [Release notes](https://github.com/juliangruber/brace-expansion/releases)
+- [Commits](https://github.com/juliangruber/brace-expansion/compare/v1.1.12...v1.1.13)
+
+---
+updated-dependencies:
+- dependency-name: brace-expansion
+  dependency-version: 1.1.13
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5044cb9944dcf962ce1f85f5aea48b5cb3d520c6
+Author: Rob Caelers
+Date: 2026-03-26T19:03:20+01:00
+
+Fix Qt build
+
+commit abf5a29eaf127340066b266c88c0de1fc76ae7a8
+Author: dependabot[bot]
+Date: 2026-03-25T23:08:34+01:00
+
+Bump picomatch in /tools/citool
+
+Bumps  and [picomatch](https://github.com/micromatch/picomatch). These dependencies needed to be updated together.
+
+Updates `picomatch` from 4.0.3 to 4.0.4
+- [Release notes](https://github.com/micromatch/picomatch/releases)
+- [Changelog](https://github.com/micromatch/picomatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/picomatch/compare/4.0.3...4.0.4)
+
+Updates `picomatch` from 2.3.1 to 2.3.2
+- [Release notes](https://github.com/micromatch/picomatch/releases)
+- [Changelog](https://github.com/micromatch/picomatch/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/picomatch/compare/4.0.3...4.0.4)
+
+---
+updated-dependencies:
+- dependency-name: picomatch
+  dependency-version: 4.0.4
+  dependency-type: indirect
+- dependency-name: picomatch
+  dependency-version: 2.3.2
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 71ffd68eea2b15e6b76f547cd28b6de9a07dfe51
+Author: Rob Caelers
+Date: 2026-03-25T20:46:54+01:00
+
+Merge pull request #673 from rcaelers/dependabot/npm_and_yarn/tools/citool/multi-88c8261ef1
+
+Bump fast-xml-parser and @aws-sdk/xml-builder in /tools/citool
+
+commit 0addcb1f5d3f1b433586e7edea3611852c367698
+Author: Rob Caelers
+Date: 2026-03-25T20:46:42+01:00
+
+Merge pull request #674 from rcaelers/dependabot/npm_and_yarn/tools/citool/flatted-3.4.2
+
+Bump flatted from 3.3.2 to 3.4.2 in /tools/citool
+
+commit 148f35d508609bd74585e645973dc6c607e05026
+Author: dependabot[bot]
+Date: 2026-03-25T20:28:19+01:00
+
+Bump flatted from 3.3.2 to 3.4.2 in /tools/citool
+
+Bumps [flatted](https://github.com/WebReflection/flatted) from 3.3.2 to 3.4.2.
+- [Commits](https://github.com/WebReflection/flatted/compare/v3.3.2...v3.4.2)
+
+---
+updated-dependencies:
+- dependency-name: flatted
+  dependency-version: 3.4.2
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 4a1cd117fec3e7d3ed7e41f38bf21aea826efe23
+Author: Rob Caelers
+Date: 2026-03-25T20:26:40+01:00
+
+msys2 dropped 32bit clang: switch to gcc
+
+commit c5ddfa223af387766ea0288387cdbd0318e28dcf
+Author: Rob Caelers
+Date: 2026-03-25T19:59:56+01:00
+
+Update cmark
+
+commit d10aff5b531dd33acdf0a3f9b731240491a1b0fe
+Author: dependabot[bot]
+Date: 2026-03-25T16:29:53+01:00
+
+Bump fast-xml-parser and @aws-sdk/xml-builder in /tools/citool
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) and [@aws-sdk/xml-builder](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/packages-internal/xml-builder). These dependencies needed to be updated together.
+
+Updates `fast-xml-parser` from 5.3.6 to 5.5.8
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.3.6...v5.5.8)
+
+Updates `@aws-sdk/xml-builder` from 3.972.5 to 3.972.15
+- [Release notes](https://github.com/aws/aws-sdk-js-v3/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js-v3/blob/main/packages-internal/xml-builder/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js-v3/commits/HEAD/packages-internal/xml-builder)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.5.8
+  dependency-type: indirect
+- dependency-name: "@aws-sdk/xml-builder"
+  dependency-version: 3.972.15
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 7f2550dce77f937a793b157b965474089fdb3ba1
+Author: Rob Caelers
+Date: 2026-03-08T16:10:51+01:00
+
+Fix translation
+
+commit df61e43b6fe343beb8c0f442ccea400bfe4918aa
+Author: Rob Caelers
+Date: 2026-03-08T16:09:13+01:00
+
+Fix typo
+
+commit 86c691219101042fb9ff9f2a08d4ea5e03b0ca9f
+Author: Rob Caelers
+Date: 2026-03-01T10:31:02+01:00
+
+Merge pull request #670 from rcaelers/dependabot/npm_and_yarn/tools/citool/multi-f5f34deeac
+
+Bump minimatch in /tools/citool
+
+commit e2c27f9b4c2c63023f41ab046d32eeb3880b7449
+Author: dependabot[bot]
+Date: 2026-02-28T13:59:14+01:00
+
+Bump minimatch in /tools/citool
+
+Bumps  and [minimatch](https://github.com/isaacs/minimatch). These dependencies needed to be updated together.
+
+Updates `minimatch` from 10.2.2 to 10.2.4
+- [Changelog](https://github.com/isaacs/minimatch/blob/main/changelog.md)
+- [Commits](https://github.com/isaacs/minimatch/compare/v10.2.2...v10.2.4)
+
+Updates `minimatch` from 3.1.3 to 3.1.5
+- [Changelog](https://github.com/isaacs/minimatch/blob/main/changelog.md)
+- [Commits](https://github.com/isaacs/minimatch/compare/v10.2.2...v10.2.4)
+
+Updates `minimatch` from 9.0.6 to 9.0.9
+- [Changelog](https://github.com/isaacs/minimatch/blob/main/changelog.md)
+- [Commits](https://github.com/isaacs/minimatch/compare/v10.2.2...v10.2.4)
+
+---
+updated-dependencies:
+- dependency-name: minimatch
+  dependency-version: 10.2.4
+  dependency-type: indirect
+- dependency-name: minimatch
+  dependency-version: 3.1.5
+  dependency-type: indirect
+- dependency-name: minimatch
+  dependency-version: 9.0.9
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 9dc5b6adfbdcb259f8cf12882a7fed06868f1538
+Author: Rob Caelers
+Date: 2026-02-27T10:44:24+01:00
+
+rc4
+
+commit b68f91ae6a2b433cfa3378310034833d6ec2211e
+Author: Rob Caelers
+Date: 2026-02-27T10:39:24+01:00
+
+Fix local build
+
+commit 5d331e54faabd6564976701d963fa2debb227472
+Author: Rob Caelers
+Date: 2026-02-24T19:36:49+01:00
+
+Copy generated debian package to deploy directory
+
+commit fbc646d6bd54dacc911529b8d0735b05b436f0fb
+Author: Rob Caelers
+Date: 2026-02-24T19:36:10+01:00
+
+Update node packages
+
+commit 6d120a0540a0e40e6c202a70aa927121b6c8a1eb
+Author: Rob Caelers
+Date: 2026-02-24T19:34:01+01:00
+
+Fix application icon
+
+commit 99d6b887c710ba9cf76c6812c38975636f26c033
+Author: Rob Caelers
+Date: 2026-02-21T20:14:25+01:00
+
+Linmk to Github issues in blog post
+
+commit c7a438450f9a0ee3817d391f9f45233fddb8727f
+Author: Rob Caelers
+Date: 2026-02-21T20:13:30+01:00
+
+Remove plucky, add resolute
+
+commit 8247b5270cd0db0f74e03c8de7181ac0f3e4c1e0
+Author: Rob Caelers
+Date: 2026-02-21T20:12:59+01:00
+
+Update node package lock
+
+commit 36567d0669a7ce997d5cf0d41996050bfe26d49d
+Author: Rob Caelers
+Date: 2026-02-21T20:12:40+01:00
+
+Remove plucky
+
+commit a3ed21f7ce555b27eded7abc3029efd4b3006984
+Author: Rob Caelers
+Date: 2026-02-21T17:48:59+01:00
+
+Merge branch 'main' of github.com:rcaelers/workrave
+
+commit 058e31e181412a39b1c7bbb10c3fcbf76d99a34a
+Author: Rob Caelers
+Date: 2026-02-21T17:37:14+01:00
+
+Use Gnome45 Shell applet by default
+
+commit da0a9c3095f822c7878cb60ed07fa9aec8df2ac3
+Author: Rob Caelers
+Date: 2026-02-21T17:36:47+01:00
+
+Prepare rc.4
+
+commit e5f8323857a698657952c96cbbabb42d778e170f
+Author: Rob Caelers
+Date: 2026-02-21T17:36:07+01:00
+
+Support multiple github issue per change in newsgen
+
+commit 75a6b6c8fea95c3ad7d64779d950e4fc228393ad
+Author: Rob Caelers
+Date: 2026-02-21T17:34:16+01:00
+
+Update node packages
+
+commit dee94dff1bee167252bac3037daa1bf7ec0b715c
+Author: Rob Caelers
+Date: 2026-02-21T17:22:28+01:00
+
+Merge pull request #664 from ValdikSS/no-lock-centered
+
+Fix Rest Break window positioning in No Block mode on KDE, Wayland. #663
+
+commit 89ece42978fe027475d856eab1ec0ddc7fe241a4
+Author: Rob Caelers
+Date: 2026-02-21T17:19:39+01:00
+
+Merge pull request #665 from rcaelers/dependabot/npm_and_yarn/tools/citool/lodash-4.17.23
+
+Bump lodash from 4.17.21 to 4.17.23 in /tools/citool
+
+commit 22748eda1546a61e49e6dfed1ea6cf4d6203346f
+Author: Rob Caelers
+Date: 2026-02-21T17:19:30+01:00
+
+Merge pull request #668 from rcaelers/dependabot/npm_and_yarn/tools/citool/multi-f8bd229db8
+
+Bump fast-xml-parser, @aws-sdk/client-s3 and @aws-sdk/client-cloudfront in /tools/citool
+
+commit f9cbe446ba8c4255d49ed4fd3fdf3576390bc639
+Author: Rob Caelers
+Date: 2026-02-21T17:18:16+01:00
+
+Merge pull request #669 from NorwayFun/main
+
+po: Add Georgian translation
+
+commit 16880082665f3a6e86a2afda99c76d14958f1acb
+Author: NorwayFun
+Date: 2026-02-20T06:53:36+01:00
+
+po: Add Georgian translation
+
+commit 37f474be53883505ea46e18062a02ee82fa0a113
+Author: NorwayFun
+Date: 2026-02-20T06:53:16+01:00
+
+po: Add Georgian translation
+
+commit e8993200530bfdc145f49a4aaecb514fa9b391b8
+Author: dependabot[bot]
+Date: 2026-02-19T21:36:45+01:00
+
+Bump fast-xml-parser, @aws-sdk/client-s3 and @aws-sdk/client-cloudfront
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) to 5.3.6 and updates ancestor dependencies [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser), [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3) and [@aws-sdk/client-cloudfront](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-cloudfront). These dependencies need to be updated together.
+
+
+Updates `fast-xml-parser` from 5.2.5 to 5.3.6
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.2.5...v5.3.6)
+
+Updates `@aws-sdk/client-s3` from 3.937.0 to 3.994.0
+- [Release notes](https://github.com/aws/aws-sdk-js-v3/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js-v3/blob/main/clients/client-s3/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js-v3/commits/v3.994.0/clients/client-s3)
+
+Updates `@aws-sdk/client-cloudfront` from 3.734.0 to 3.994.0
+- [Release notes](https://github.com/aws/aws-sdk-js-v3/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js-v3/blob/main/clients/client-cloudfront/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js-v3/commits/v3.994.0/clients/client-cloudfront)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.3.6
+  dependency-type: indirect
+- dependency-name: "@aws-sdk/client-s3"
+  dependency-version: 3.994.0
+  dependency-type: direct:production
+- dependency-name: "@aws-sdk/client-cloudfront"
+  dependency-version: 3.994.0
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 01562061eb7901738e83d89dc25a3dca3f1e4ce1
+Author: Rob Caelers
+Date: 2026-02-10T21:01:04+01:00
+
+Remove fuzzy in NL translation
+
+commit 991c248c3fdc1eab2a144035fa7fc2c02cce3cac
+Author: Rob Caelers
+Date: 2026-02-10T21:00:32+01:00
+
+Update translations
+
+commit 9c6a0e69f10ec3b482eb3cabc11b1467c5a1cbbb
+Author: dependabot[bot]
+Date: 2026-01-22T00:02:36+01:00
+
+Bump lodash from 4.17.21 to 4.17.23 in /tools/citool
+
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.21 to 4.17.23.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.21...4.17.23)
+
+---
+updated-dependencies:
+- dependency-name: lodash
+  dependency-version: 4.17.23
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+commit adccc18bed7ad22e308b9913d86b5196287612b5
+Author: Rob Caelers
+Date: 2026-01-08T19:35:05+01:00
+
+Merge pull request #661 from kousu/patch-1
+
+gnome-shell typing oversight
+
+commit 4e902d159fcf12cca3afd3acdb3148a2f56e5834
+Author: ValdikSS
+Date: 2026-01-07T12:49:58+01:00
+
+Fix Rest Break window positioning in No Block mode on KDE, Wayland. #663
+
+The Rest Break window is shown in the top left corner instead of
+in the center when using "No Block" mode (BlockMode::Off) on KDE
+under Wayland.
+
+Do not use Wayland layer shell, as it is intended for fullscreen
+overlay in Lock Input mode.
+
+Fixes #663
+
+commit 2e4a5551f1926a8663275eb7970adac79e2ec349
+Author: Nick
+Date: 2025-12-05T05:39:58+01:00
+
+gnome-shell typing oversight
+
+I was trying to fix the applet. I see that https://github.com/rcaelers/workrave/pull/636 fixed it (thank you!) and my patch was pretty close to the fix there.
+
+However there's this one little nit that I noticed left; there's a small chance this.add_actor could be undefined while this._box.add_actor is.
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3-71</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Wed, 08 Apr 2026 09:55:22 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260408-v1_11_0_rc_3-71-gf9eefb31cd/workrave-windows-v1_11_0_rc_3-71-gf9eefb31cd-20260408.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="MxRL0NRi0lkCbKR+FPW5qhPSYdl0ggv0Vc6uMbnQVyIfKqwCG/LKp8Tti0W+ILBruMdGz3jRzOxXNz5dwK5vCA==" length="66834641" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.3</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.3 has been released.
+
+
+- Bug fixes:
+  - Fix high DPI fractional scaling on Windows]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.3</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Tue, 25 Nov 2025 08:34:13 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_3/workrave-windows-1.11.0-rc.3.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="gfoXaMtoMZfwXfNWV9IFokMfPcpaRZYqm8SgM+4Swkhww/nRCyCb+GumcvKpPILIdhN7YtB59NwuirGpYnQpCg==" length="65020440" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.2-3</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.3 has been released.
+
+
+- Bug fixes:
+  - Fix high DPI fractional scaling on Windows
+
+commit 7f241aa7d77234ffaa49a6fc76d70a548fe59259
+Author: Rob Caelers
+Date: 2025-11-25T19:03:40+01:00
+
+update NEWS
+
+commit 9b68bf912bc4491288358096afb8485e5c12fc2a
+Author: Rob Caelers
+Date: 2025-11-25T18:52:25+01:00
+
+release rc3
+
+commit 20f4b36f68719248d92376a50fecfcd8fb512c0d
+Author: Rob Caelers
+Date: 2025-11-25T18:51:31+01:00
+
+revert dpi aware setting
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.2-3</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Tue, 25 Nov 2025 07:45:32 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20251125-v1_11_0_rc_3/workrave-windows-v1_11_0_rc_3-20251125.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="BqU3MVXXPrCZcsDpZ97g7NhTTH3t9jZ4qj3GLCET7rZK746aT4WreRV/6+jvQ80jb2z6g2sojm0Eg3f99fHIBg==" length="65864224" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.2</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.2 has been released.
+
+
+- Improvements:
+  - Allow Workrave to ignore idle inhibitors if possible (#596, J. J. Ramsey)
+  - Add examples of usage with swaybar (#597, J. J. Ramsey)
+  - Support GNOME Shell 48
+  - Update DBus example (#611, Emmanuel Ferdman)
+  - Support for user defined colors (#619)
+  - Port workrave Python scripts for waybar, etc., to dasbus (#627, J. J. Ramsey)
+  - Phil Dibbs contributed new sounds (bells_ensemble, shangri_la, synth_harp, tinkle_bell, tuned_udu, woodwind_ensemble)
+  - Support GNOME Shell 49 (#636, Alessandro Astone)
+  - Keyboard/mouse locking now works on ARM64 Windows
+  - Handle screen lock shortcut during breaks under Xorg
+  - Add high DPI support on Windows (#650, Charlie Lin)
+  - Use Gnome Shell extension to display prelude windows (#621)
+  - It is no longer required to accept the GPL license on installation on Windows (#648)
+- Bug fixes:
+  - Fix crash when monitor is powered off (#606)
+  - Fix an empty AppIndicator menu (#556, #614, wojnilowicz)
+  - Fix issue where the tray icon did not appear on waybar, swaybar, or wf-shell trays (#555, #613, wojnilowicz)
+  - Fix issue where the status window shows when Sway reloads despite being disabled (#612, #615, wojnilowicz)
+  - Update AppIndicator menu when menu content changes (#556, #652,ValdikSS)
+- Updated Translations:
+  - Update Chinese translation (#645, Sisyphe42)
+  - Updated Indonesian translation (#653, Andika Triwidada)
+  - Fix French translation (#656)]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.2</sparkle:version>
+            <sparkle:channel>rc</sparkle:channel>
+            <pubDate>Mon, 24 Nov 2025 08:51:07 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_2/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="C7lLY67NiBEOTbr/xivllIRosfYOC0HCf6e5yH1qNJEL9nLxdkMZ4RD38AtW0YIj9ka7nq/a7eSXJZUsD1xFBw==" length="65021072" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-rc.1</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.1 has been released.
+
+
+- Fix issue where a different window is focused after a break warning.]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-rc.1</sparkle:version>
+            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Tue, 07 Jan 2025 10:09:03 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_1/workrave-windows-1.11.0-rc.1.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="bduROvizFfaEAk0zAz9156ugKxydBj/RZuc41/5FGbUiTva7zGHYNajBuMXv3vULB31JoWon7gUfKhzMDQbWCQ==" length="38051464" type="application/octet-stream" />
+        </item>
+
+
+        <item>
+            <title>Workrave 1.11.0-beta.16-18</title>
+            <description><![CDATA[
+Workrave 1.11.0-rc.1 has been released.
+
+
+- Fix issue where a different window is focused after a break warning.
+]]></description>
+            <link>https://workrave.org</link>
+            <sparkle:version>1.11.0-beta.16-18</sparkle:version>
+            <sparkle:channel>dev</sparkle:channel>
+            <pubDate>Tue, 07 Jan 2025 09:32:50 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20250107-v1_11_0_rc_1/workrave-windows-1.11.0-rc.1.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="OngHkHhg7O01vtLj3qxzsAsCSHWuuAdvtWsAkfAuIVESIZr6rXe4ay1vh9vhKBPvuMKV91i2y/Wp4UAkSyZiDQ==" length="38661353" type="application/octet-stream" />
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20250107-v1_11_0_rc_1/workrave-windows-v1_11_0_rc_1-20250107.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="yWJIcObDj3V+M2wdcq/B9BwM05z2nQo09Va307N43o+8mWgks3H4PO5k/yPXo+wVpoWoricBc4lPGsAjPr+hDA==" length="38661537" type="application/octet-stream" />
+        </item>
+
+
+    </channel>
 </rss>
