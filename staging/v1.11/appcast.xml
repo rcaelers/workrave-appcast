@@ -81,8 +81,8 @@ Changes since Workrave 1.10.54
   - Updated Spanish translation (#494, Cristian Mart�nez)]]></description>
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0</sparkle:version>
-            <sparkle:channel>release</sparkle:channel>
-            <pubDate>Mon, 20 Jul 2026 05:05:47 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="uY1ifIAK0s6ZVseMntFx/yINT6SFh9knKTcl6lxKsfPuDQEWV89Mn2gNJ40YEM7H/2vM8H+1jVLvn2DJ7Xf3DQ==" length="59180376" type="application/octet-stream" />
+            <sparkle:channel>stable</sparkle:channel>
+            <pubDate>Mon, 20 Jul 2026 06:26:42 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="0K9XOLPVtepkTW5eTKBOeoLH0wybLKy5tceO3y1T92hbh+UBpOxngczazJabs6N8UpTZ9D5gGg1GPsDmsJLtBQ==" length="59180608" type="application/octet-stream" />
         </item>
 
 
