@@ -82,7 +82,8 @@ Changes since Workrave 1.10.54
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0</sparkle:version>
             <sparkle:channel>stable</sparkle:channel>
-            <pubDate>Mon, 20 Jul 2026 06:26:42 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="0K9XOLPVtepkTW5eTKBOeoLH0wybLKy5tceO3y1T92hbh+UBpOxngczazJabs6N8UpTZ9D5gGg1GPsDmsJLtBQ==" length="59180608" type="application/octet-stream" />
+            <pubDate>Mon, 20 Jul 2026 07:31:21 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260720-v1_11_0local/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="y3sKqbd7XcBXbufcFeVpGPgsxKy7qVPhGwZOmzzQKJBo3Ik7YNE1difTD/UZrC7knhnqv6E8//tePjIfUBgPDQ==" length="59180984" type="application/octet-stream" />
         </item>
 
 
@@ -105,7 +106,8 @@ Workrave 1.11.0-rc.4 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.4</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Tue, 19 May 2026 08:58:55 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_4/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="lvoWnLxW9/Di20WsRw2ttTy7BvZI25zc6TMvUEZe891rj18UuxnxSkwz142IUZlwNqVj4pH5KlGPvSi8c1LiAQ==" length="73372912" type="application/octet-stream" />
+            <pubDate>Tue, 19 May 2026 08:58:55 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260519-v1_11_0_rc_4local/workrave-windows-1.11.0-rc.4.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="lvoWnLxW9/Di20WsRw2ttTy7BvZI25zc6TMvUEZe891rj18UuxnxSkwz142IUZlwNqVj4pH5KlGPvSi8c1LiAQ==" length="73372912" type="application/octet-stream" />
         </item>
 
 
@@ -142,7 +144,8 @@ Workrave 1.11.0-rc.2 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.2</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Mon, 24 Nov 2025 08:02:20 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc_2/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="aN8dq6Wr+4nrw9DDZxoNE9yAmNNt8pkFcSHBMDpiTffL1VWi3tZH70jTyLqsnN00GtIePT0EG0+l+NHhZK/PDA==" length="65021560" type="application/octet-stream" />
+            <pubDate>Mon, 24 Nov 2025 08:02:20 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251124-v1_11_0_rc_2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="aN8dq6Wr+4nrw9DDZxoNE9yAmNNt8pkFcSHBMDpiTffL1VWi3tZH70jTyLqsnN00GtIePT0EG0+l+NHhZK/PDA==" length="65021560" type="application/octet-stream" />
         </item>
 
 
@@ -179,7 +182,8 @@ Workrave 1.11.0-rc.2 has been released.
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0-rc.2</sparkle:version>
             <sparkle:channel>rc</sparkle:channel>
-            <pubDate>Sun, 23 Nov 2025 09:16:10 +0100</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_0_rc.2/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="KHBhk1QSP86lHwsZtClwTrAmxKtDO4bwovXVhf4vl4gDezRd8wrekA9qWJ3rJO9d1jux/xT7nprqvzTwE+rECQ==" length="64985896" type="application/octet-stream" />
+            <pubDate>Sun, 23 Nov 2025 09:16:10 +0100</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20251123-v1_11_0_rc.2local/workrave-windows-1.11.0-rc.2.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="KHBhk1QSP86lHwsZtClwTrAmxKtDO4bwovXVhf4vl4gDezRd8wrekA9qWJ3rJO9d1jux/xT7nprqvzTwE+rECQ==" length="64985896" type="application/octet-stream" />
         </item>
 
 
