@@ -82,8 +82,8 @@ Changes since Workrave 1.10.54
             <link>https://workrave.org</link>
             <sparkle:version>1.11.0</sparkle:version>
             <sparkle:channel>stable</sparkle:channel>
-            <pubDate>Tue, 21 Jul 2026 12:20:05 +0200</pubDate>
-            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260721-v1_11_0local/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="xrS0Qal65g57e0qsCPjs3fI/lzM8k6fBLO788t293bq8nhaE+iYA2PrIfVt/yxOGYEPVSfTbHYQZ3yAo/SkhCw==" length="59180224" type="application/octet-stream" />
+            <pubDate>Tue, 21 Jul 2026 12:45:32 +0200</pubDate>
+            <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/staging/v1.11/20260721-v1_11_0local/workrave-windows-1.11.0.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="7amYxhTZ4HgVkB3oqjJJt+2fcCQ/38Lf9PWqtJTokf1rCNMIfYw7oDOtWhxfY+Mvy7PQC7e9rUuEUuG17gF6Dw==" length="59180192" type="application/octet-stream" />
         </item>
 
 
