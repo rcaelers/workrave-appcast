@@ -44,23 +44,6 @@ fix: add check for existing GitHub release before creation
             <enclosure os="windows" url="https://snapshots.workrave.org/snapshots/v1.11/20260925-v1_11_4-1-gc8a9016c46/workrave-windows-v1_11_4-1-gc8a9016c46-20260925.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="hXCrrRwTYTiLKkD74IyDTfx012u5fNuHRonkN4+SebOopuPn+PIR9UGQN+6LdKVyE1U298IqcEEHEk0JjJyoBQ==" length="59393713" type="application/octet-stream" />
         </item>
 
-
-
-        <item>
-            <title>Workrave 1.11.3</title>
-            <description><![CDATA[
-Workrave 1.11.3 fixes a crash with the new audio device selection support on Linux.
-
-
-- Bug fixes:
-  - Fixed a crash when selecting an audio device on Linux.]]></description>
-            <link>https://workrave.org</link>
-            <sparkle:version>1.11.3</sparkle:version>
-            <sparkle:channel>stable</sparkle:channel>
-            <pubDate>Fri, 25 Sep 2026 12:32:19 +0200</pubDate><enclosure os="windows" url="https://github.com/rcaelers/workrave/releases/download/v1_11_3/workrave-windows-1.11.3.exe" sparkle:installerArguments="/SILENT /SP- /NOICONS" sparkle:edSignature="GPBIq1z4BJfJ6MxWxMK5vqKEbI7lRsSSEWkuiuWc9iyjHciu1i+xdhNAUoVNNEtNp5EsKxiwTKGg9OtuGnQOBg==" length="59240056" type="application/octet-stream" />
-        </item>
-
-
         <item>
             <title>Workrave 1.11.2-1</title>
             <description><![CDATA[
